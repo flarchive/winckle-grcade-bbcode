@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of winckle/grcade-bbcode.** Not for installation: use [Packagist](https://packagist.org/packages/winckle/grcade-bbcode) or the [upstream repository](https://github.com/frameset/grcade-bbcode).
 
-**0** versions archived · Latest: [`v0.02`](https://github.com/flarchive/winckle-grcade-bbcode/tree/archive/v0.02) · License: `MIT` · Flarum: `^0.1.0-beta.16 || ^1.0`
+**2** versions archived · Latest: [`v0.02`](https://github.com/flarchive/winckle-grcade-bbcode/tree/archive/v0.02) · License: `MIT` · Flarum: `^0.1.0-beta.16 || ^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.01` | 2024-01-26 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/winckle-grcade-bbcode/tree/archive/v0.01) |
+| `v0.02` | 2024-01-26 | `^0.1.0-beta.16 || ^1.0` | [Browse](https://github.com/flarchive/winckle-grcade-bbcode/tree/archive/v0.02) |
 
 Catalog entry: [packages/winckle-grcade-bbcode.json](https://github.com/flarchive/archive-index/blob/main/packages/winckle-grcade-bbcode.json)
 
